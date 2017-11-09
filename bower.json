@@ -1,0 +1,19 @@
+{
+  "name": "matvey",
+  "version": "0.0.0",
+  "authors": [
+    "Insayt <raul021292@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}

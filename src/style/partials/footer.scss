@@ -1,0 +1,23 @@
+.copy a, .copy p {
+    color: inherit;
+}
+
+.copy {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    padding: 20px;
+}
+.block_policy {
+    margin-bottom: 10px;
+}
+.copy .policy {
+    margin: 5px 10px;
+    display: inline-block;
+    text-transform: lowercase;
+
+}
+.copy .policy:first-letter{
+	text-transform: uppercase;
+}
